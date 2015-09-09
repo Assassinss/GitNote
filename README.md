@@ -2,6 +2,12 @@
 #git 常用命令记录
 参考自：[廖雪峰官网](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
+##一些git学习资料:
+[Git远程操作详解](http://blog.jobbole.com/71091/)<br>
+[Git工作流指南：Forking工作流](http://blog.jobbole.com/76861/)<br>
+[开发者日常使用的 Git 命令](http://blog.jobbole.com/54184/)<br>
+[如何创建你自己的 Git 服务器](http://blog.jobbole.com/60505/)<br>
+
 ##内容会不定期更新
 
 ###**如果各位大大发现有错,欢迎指出**
