@@ -49,4 +49,10 @@ git pull:把最新的提交从远程库的分支上抓取到本地上;
 
 git clone (你的github项目的地址链接):从远程仓库中克隆一个到本地上;
 
+git stash apply:恢复暂存区的内容;
+
+git stash drop:删除暂存区的内容;
+
+git remote show origin:查看远程仓库的状态;
+
 
