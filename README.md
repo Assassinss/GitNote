@@ -14,7 +14,7 @@
 
 
 git init: 创建并初始化一个 git 仓库,接着你就可以往里面塞东西，就像冰箱一样可以往里面塞各种食品;
-###add 操作
+###add,log,status和commit 操作
 git add .:用来添加多个文件到暂存区中;
 
 git add --all:一次将多个文件夹或者是文件添加到暂存区中;
@@ -56,6 +56,14 @@ git pull:把最新的提交从远程库的分支上抓取到本地上;
 git clone (你的github项目的地址链接):从远程仓库中克隆一个到本地上;
 
 git remote show origin:查看远程仓库的状态;
+
+git branch -v:查看远程分支;
+
+git branch -a:查看所有分支;
+
+git merge origin/master:在本地分支上合并远程分支，这个命令表示在当前分支上，合并origin/master;
+
+git fetch <远程主机> <分支名>:将远程主机上的某个分支取回到本地, 例如：git fetch origin master ，就是取回origin 主机上的 master 分支到本地上;
 ###stash 操作
 git stash apply:恢复暂存区的内容;
 
