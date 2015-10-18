@@ -7,6 +7,7 @@
 [Git工作流指南：Forking工作流](http://blog.jobbole.com/76861/)<br>
 [开发者日常使用的 Git 命令](http://blog.jobbole.com/54184/)<br>
 [如何创建你自己的 Git 服务器](http://blog.jobbole.com/60505/)<br>
+[Git分支管理是一门艺术](http://blog.jobbole.com/13916/)<br>
 
 ##内容会不定期更新
 
