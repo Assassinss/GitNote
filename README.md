@@ -12,10 +12,16 @@
 
 ##内容会不定期更新
 
-###**如果你有好的资料想分享可以先fork,然后再pull request**
+###如果你有好的资料想分享可以先fork,然后再pull request
 
+###Git 配置
+* git config --global user.name "your user name"
+* git config --global user.email "your email address"
+* ----这样的设置是全局设置，会影响此用户建立的每一个项目
 
+###Git 初始化
 git init: 创建并初始化一个 git 仓库,接着你就可以往里面塞东西，就像冰箱一样可以往里面塞各种食品;
+
 ###add,log,status和commit 操作
 git add .:用来添加多个文件到暂存区中;
 
