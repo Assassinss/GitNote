@@ -34,6 +34,8 @@ git status: status 中文翻译为状态，不用猜都知道是查看 git 工�
 git log: 查看往 git 仓库中 commit(提交) 日志信息，如果 git log 信息太多，并且后面还有很多日志信息想退出怎么办呢，这个可以通过按 Q 键退出日志查看;
 
 git commit file_name: 将 git add file_name 命令中添加到暂存区中东西提交到master 分支上或者是新建的分支上，可以将一些修改后，或者是添加新文件提交到 master 分支上，或者提交到你自己新创建的分支上;
+
+git commit -m "description"：将git add 操作的文件从暂存区中提交文件，-m "description" 的description 为你提交文件或者代码的注释说明
 ###reset 操作
 git reset --hard HARD^: 这个是 git 中有着后悔药一样神奇的功能，它可以将当前 git 仓库版本回滚到上一个 git 仓库版本，接着就又可以愉快撸代码了;
 
