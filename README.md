@@ -79,3 +79,8 @@ git stash apply:恢复暂存区的内容;
 
 git stash drop:删除暂存区的内容;
 
+###.gitignore 文件无效的处理方法
+原因：如果你有文件已近提交(commit)了，而你又想忽略该文件，那么.gitignore文件忽略是无效，是因为你已经把文件先提交到仓库中去了，这种情况下，你应该先清除这些已经提交文件的关联，可以用一下命令：
+* git rm --cached file/path/to/be/ignored
+* git add .
+* git commit -m "ignore file successful"
