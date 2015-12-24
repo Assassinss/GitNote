@@ -10,6 +10,7 @@
 * [如何创建你自己的 Git 服务器](http://blog.jobbole.com/60505/)<br>
 * [Git分支管理是一门艺术](http://blog.jobbole.com/13916/)<br>
 * [日常使用git的19个建议](http://blog.jobbole.com/96088/)
+* [Git 常用命令速查](http://www.alexkras.com/getting-started-with-git/)
 
 ##内容会不定期更新
 
