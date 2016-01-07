@@ -12,6 +12,7 @@
 * [日常使用git的19个建议](http://blog.jobbole.com/96088/)
 * [Git 常用命令速查](http://www.alexkras.com/getting-started-with-git/)
 * [常用Git 命令总结](http://www.pythontab.com/html/2015/linuxkaiyuan_1224/999.html)
+* [Git 提交的正确姿势](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401840568&idx=1&sn=051879b73f32ab7bcbcfc2e3cdd85f07&scene=1&srcid=0107l8avY4frKW3kfhaIUoNY&key=41ecb04b0511100344d280ce4225cc8c4d97599af475ef134186f7df3a7b8ace7e0e2eebc59d96ca00d6c9abf1ebf9e2&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=ymbjwf7oU6CeUuxBIkhi0U6TOA5EP5ZWHXbpm6NVy%2FY%3D)
 
 ##内容会不定期更新
 
