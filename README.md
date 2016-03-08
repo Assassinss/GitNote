@@ -65,6 +65,10 @@ git remote:查看远程库的信息;
 
 git remote -v:查看更加详细远程库的信息;
 
+git remote rm origin:删除远程仓库;
+
+git remote rename smile girl:将远程仓库smile重命名为girl;
+
 git pull:把最新的提交从远程库的分支上抓取到本地上;
 
 git clone (你的github项目的地址链接):从远程仓库中克隆一个到本地上;
