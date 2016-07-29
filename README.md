@@ -55,7 +55,7 @@ git merge 分支名称:如果你当前的分支在 master 上，并且你有一�
 
 git branch -d 分支名称:当你不要这个分支后，你可以用这个命令去删除这个分支;
 
-git checkout -- <file_name>:当你在 add 之前，而这个时候你又想撤销的话可以用这个命令去撤销你的代码添加到暂存区;
+git checkout -- file_name:当你在 add 之前，而这个时候你又想撤销的话可以用这个命令去撤销你的代码添加到暂存区;
 ###远程操作
 git remote add origin (你的github项目地址链接):关联远程仓库到本地上，远程仓库就是github项目地址;
 
