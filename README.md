@@ -92,3 +92,6 @@ git stash drop:删除暂存区的内容;
 * git rm --cached file/path/to/be/ignored
 * git add .
 * git commit -m "ignore file successful"
+
+###更改 Git 仓库源地址
+* git remote set-url origin (Git 仓库地址)
