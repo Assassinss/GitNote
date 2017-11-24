@@ -98,3 +98,6 @@ git stash drop:删除暂存区的内容;
 
 ### 更改 Git 提交信息
 * git commit --amend -m "「commit message」"
+
+### 查看已删除的 Git 提交记录
+* git reflog show 查看手残 reset 了重要的 commit 提交记录，然后通过例如 git reset HEAD@{1} 命令恢复提交信息
