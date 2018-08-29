@@ -106,10 +106,13 @@ git stash drop:删除暂存区的内容;
 * find . -type f -exec dos2unix {} +
 
 ### 拒绝提交包含混合换行符的文件
-git config --global core.safecrlf true
+* git config --global core.safecrlf true
 
 ### 允许提交包含混合换行符的文件
-git config --global core.safecrlf false
+* git config --global core.safecrlf false
 
 ### 提交包含混合换行符的文件时给出警告
-git config --global core.safecrlf warn
+* git config --global core.safecrlf warn
+
+### 退出 git 编辑
+* :wq
