@@ -116,3 +116,9 @@ git stash drop:删除暂存区的内容;
 
 ### 退出 git 编辑
 * :wq
+
+### Fork 项目，同步代码 [Git doc](https://help.github.com/articles/syncing-a-fork/)
+1. git fetch upstream 
+2. git checkout master
+3. git merge upstream/master
+
