@@ -119,6 +119,7 @@ git stash drop:删除暂存区的内容;
 
 ### 查看已删除的 stash
 * git fsck --unreachable
+* git fsck --unreachable | grep commit | cut -d ' ' -f3 | xargs git log --merges --no-walk
 * git show "[commit id]" //查看commit stash 提交的修改
 
 ### Fork 项目，同步代码 [Git doc](https://help.github.com/articles/syncing-a-fork/)
