@@ -127,3 +127,7 @@ git stash drop:删除暂存区的内容;
 2. git checkout master
 3. git merge upstream/master
 
+### 重置 commit 的 username
+git commit --amend --reset-author
+
+
